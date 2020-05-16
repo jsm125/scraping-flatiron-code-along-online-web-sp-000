@@ -1,6 +1,6 @@
 require_relative "./spec_helper"
 require_relative "../lib/course.rb"
-require_relative '../lib/scraper.rb'
+
 
 describe "Course" do 
 
