@@ -3,6 +3,7 @@ require 'open-uri'
 require 'pry'
 
 require_relative './course.rb'
+require_relative '../lib/scraper.rb'
 
 class Scraper
   
